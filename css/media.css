@@ -1,0 +1,55 @@
+@media only screen and (max-width: 767px) 
+{
+    .sc-25
+    {
+        width: 25%;
+    }
+    .sc-33
+    {
+        width: 33.333%;
+    }
+    .sc-50
+    {
+        width: 50%;
+    }
+    .sc-100
+    {
+        width: 100%;
+    }
+    .ml
+    {
+        margin-left: 30px;
+    }
+    .p
+    {
+        padding: 50px;
+    }
+    .section6-content p
+    {
+         width: 100%;
+    }
+
+}
+@media only screen and (min-width: 767px) and (max-width: 990px)
+{
+    .ms-25
+    {
+        width: 25%;
+    }
+    .ms-33
+    {
+        width: 33.333%;
+    }
+    .ms-50
+    {
+        width: 50%;
+    }
+    .ms-100
+    {
+        width: 100%;
+    }
+    .p
+    {
+        padding: 50px;
+    }
+}
